@@ -14,4 +14,7 @@ AI-powered chatbot to help with grocery shopping. Built with **Python**, **Strea
 - **n8n** – Workflow automation and task scheduling
 - **Google Gemini API / GPT** – AI chatbot responses
 
-<img width="75" height="44" alt="image" src="https://github.com/user-attachments/assets/356490d9-5dd0-4343-9718-f5509950cbd2" />
+
+
+
+<img width="1853" height="884" alt="image" src="https://github.com/user-attachments/assets/8a13ed3c-666a-443b-a18d-0d14a285a13b" />
