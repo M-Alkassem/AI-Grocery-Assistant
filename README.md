@@ -12,7 +12,7 @@ AI-powered chatbot to help with grocery shopping. Built with **Python**, **Strea
 - **Python** – Core logic and UI ( streamlit )
 - **Streamlit** – Frontend interface for user interaction
 - **n8n** – Workflow automation and task scheduling
-- **Google Gemini API / GPT** – AI chatbot responses
+- **Google Gemini API – AI chatbot responses
 
 
 
