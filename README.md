@@ -17,4 +17,7 @@ AI-powered chatbot to help with grocery shopping. Built with **Python**, **Strea
 
 
 
+
+
+
 <img width="1853" height="884" alt="image" src="https://github.com/user-attachments/assets/8a13ed3c-666a-443b-a18d-0d14a285a13b" />
